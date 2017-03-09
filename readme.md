@@ -1,0 +1,1 @@
+Simple for loop iteration from 999 to 1, incrementing total if number is divisible by 3 or 5. Returns total.
